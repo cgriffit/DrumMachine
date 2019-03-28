@@ -4,15 +4,19 @@ self.__precacheManifest = [
     "url": "/DrumMachine/static/js/runtime~main.77d30c86.js"
   },
   {
-    "revision": "c7abb88e96a6677de90a",
-    "url": "/DrumMachine/static/js/main.86f7765c.chunk.js"
+    "revision": "11d4a21554da74eb2d17",
+    "url": "/DrumMachine/static/js/main.a579d91c.chunk.js"
   },
   {
     "revision": "7dc653d0ad7d93ce8cad",
     "url": "/DrumMachine/static/js/2.dca4fbf7.chunk.js"
   },
   {
-    "revision": "0563a3b06aaea682f76f64ba863c44f0",
+    "revision": "11d4a21554da74eb2d17",
+    "url": "/DrumMachine/static/css/main.feddd1f1.chunk.css"
+  },
+  {
+    "revision": "b107912f1345f2cc19dd465aef0ba648",
     "url": "/DrumMachine/index.html"
   }
 ];
