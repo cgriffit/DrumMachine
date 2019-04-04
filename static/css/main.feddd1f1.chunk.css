@@ -1,2 +1,0 @@
-*{box-sizing:border-box;margin:0;padding:0}.drum-pad,p{text-align:center}.drum-pad{background-color:#3a86ff;width:90%;font-size:3em;border:none;margin:5% 5% 0;padding:5%;cursor:pointer;outline:none}.grid{display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,1fr);grid-column-gap:1px;grid-row-gap:1px;width:90%;margin-left:5%}
-/*# sourceMappingURL=main.feddd1f1.chunk.css.map */
